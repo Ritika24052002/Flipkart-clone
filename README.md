@@ -11,6 +11,9 @@ This readme file provides an overview and explanation of the code for the "Onlin
   - `utils.css`: Utility styles that can be reused across the website.
   - `responsive.css`: Styles for making the website responsive on different screen sizes.
 
+## Demo Site
+Here is the demo site of the web page: [Click here to visit our website](http://127.0.0.1:5500/index.html)
+
 ## Responsive Design
 
 The website includes a `responsive.css` file to ensure that the site layout adapts well to different screen sizes, making it mobile-friendly.
